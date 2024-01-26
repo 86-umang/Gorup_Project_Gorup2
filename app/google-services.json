@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1088299143296",
+    "firebase_url": "https://developerhub-97655-default-rtdb.firebaseio.com",
+    "project_id": "developerhub-97655",
+    "storage_bucket": "developerhub-97655.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088299143296:android:3d3ba1568068a2e15d9665",
+        "android_client_info": {
+          "package_name": "com.example.developerhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWayJ7fnSxhUVJMWtr0G1ZIg0aMhl_QEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
