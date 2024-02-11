@@ -7,6 +7,10 @@ android {
     namespace 'com.example.developerhub'
     compileSdk 33
 
+    dependencies {
+        implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    }
+
     defaultConfig {
         applicationId "com.example.developerhub"
         minSdk 30
